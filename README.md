@@ -27,6 +27,8 @@ Tugas & Tanggung Jawab di Perusahaan ISP
 -Membuat dokumentasi teknis dan SOP.
 
 LIST NOTE BOOK
+
+
 https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan1_AldyaRisnandar_240401010362.ipynb
 https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan2_AldyaRisnandar_240401010362.ipynb
 https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan3_AldyaRisnandar_240401010362.ipynb
