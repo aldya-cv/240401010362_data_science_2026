@@ -36,6 +36,12 @@ https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan4_AldyaRisnanda
 https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan5_AldyaRisnandar_240401010362.ipynb
 https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan6_AldyaRisnandar_240401010362.ipynb
 https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan7_AldyaRisnandar_240401010362.ipynb
+https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan9_AldyaRisnandar_240401010362.ipynb
+https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan10_AldyaRisnandar_240401010362.ipynb
+https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan11_AldyaRisnandar_240401010362.ipynb
+https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan12_AldyaRisnandar_240401010362.ipynb
+https://github.com/aldya-cv/data_science_2026/blob/main/Pertemuan13_AldyaRisnandar_240401010362.ipynb
+
 
 *Kesimpulan Pembelajaran*
 
